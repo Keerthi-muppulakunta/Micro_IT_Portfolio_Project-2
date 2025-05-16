@@ -16,7 +16,7 @@ date_label = Label(root, text="", font=("Arial", 20, "bold"), bg="black", fg="wh
 date_label.pack(anchor="center", pady=10)
 
 # Add your name at the bottom
-credit_label = Label(root, text="By Keerthi muppulakunta", font=("Arial", 14, "italic"), bg="black", fg="gray")
+credit_label = Label(root, text="By Keerthi  muppulakunta", font=("Arial", 14, "italic"), bg="black", fg="gray")
 credit_label.pack(anchor="s", pady=10)
 
 # Function to update time
