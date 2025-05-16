@@ -17,10 +17,8 @@ This project is a simple digital clock built with Python's **Tkinter** library. 
 - **Tkinter**: GUI library for creating the clock interface.
 
 
-demo of digital clock https://github.com/user-attachments/assets/a1461edc-ceb3-4058-a86b-29dd8b243f5c
+demo of digital clock https://github.com/user-attachments/assets/3c600bf5-98a2-4de4-813d-d15a46cb8ca7
 
-
----
 
 
 
