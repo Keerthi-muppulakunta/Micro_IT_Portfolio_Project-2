@@ -1,6 +1,6 @@
 #  Clock application
 
-This project is a simple digital clock built with Python's **Tkinter** library. It displays the current time and date in a sleek and modern UI.
+This project is a simple digital clock built with Python's **Tkinter** library. It displays the current time and date in a sleek and modern UI.The interface typically shows hours, minutes, and seconds, providing,a versatile tool for timing activities and checking the time simultaneously
 
 ---
 
