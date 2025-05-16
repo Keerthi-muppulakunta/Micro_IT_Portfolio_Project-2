@@ -4,7 +4,7 @@ This project is a simple digital clock built with Python's **Tkinter** library. 
 
 ---
 
-## 🕰️ Features
+##  Features
 - Real-time clock updating every second.
 - Displays the current date in a readable format.
 - Minimalist and responsive UI with adjustable window size.
@@ -12,7 +12,7 @@ This project is a simple digital clock built with Python's **Tkinter** library. 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python**: Programming language.
 - **Tkinter**: GUI library for creating the clock interface.
 
